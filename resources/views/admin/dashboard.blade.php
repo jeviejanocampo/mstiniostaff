@@ -10,7 +10,7 @@
     <!-- Sidebar -->
     <nav>
         <ul>
-            <li><a href="{{ route('admin.dashboard') }}">Dashboardssssss</a></li>
+            <li><a href="{{ route('admin.dashboard') }}">Dashboards</a></li>
             <li><a href="{{ route('sections.users') }}">lol</a></li>
             <li><a href="{{ route('sections.reports') }}">Reports</a></li>
             <li><a href="#">Reports</a></li>
